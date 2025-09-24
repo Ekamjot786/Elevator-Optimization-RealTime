@@ -16,5 +16,3 @@ This project simulates and optimizes an elevator system using **real-time video 
 - YOLOv8 (Ultralytics)  
 - cvzone  
 - NumPy  
-
-## 📂 Project Structure
